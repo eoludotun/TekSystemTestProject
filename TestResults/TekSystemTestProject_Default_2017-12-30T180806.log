@@ -1,0 +1,1262 @@
+﻿2017-12-30T09:00:44.5547005-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:00:44.6527061-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:00:44.6537061-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:00:44.6537061-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:00:58.7425120-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:00:58.7435120-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:01:01.1546499-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T090044.log
+2017-12-30T09:01:01.1556500-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:01:06.4449525-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:01:06.4549531-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:01:06.4549531-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:01:06.4559532-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:01:14.4594109-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:01:14.4604110-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:01:16.6085338-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T090106.log
+2017-12-30T09:01:16.6095339-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:02:14.4288410-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:02:14.4378415-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:02:14.4388415-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:02:14.4398416-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:02:24.4434138-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:02:24.4454139-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:02:26.4815304-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T090214.log
+2017-12-30T09:02:26.4825304-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:06:39.6380101-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:06:39.6470106-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:06:39.6480106-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:06:39.6480106-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:06:50.6526401-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:06:50.6546402-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:06:52.5767501-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T090639.log
+2017-12-30T09:06:52.5777502-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:08:00.4396317-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:08:00.4496322-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:08:00.4496322-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:08:00.4506323-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:08:08.4540901-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:08:08.4550901-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:08:10.3832004-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T090800.log
+2017-12-30T09:08:10.3842005-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:11:44.6384551-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:11:44.6494557-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:11:44.6504558-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:11:44.6504558-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:11:52.6559137-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:11:52.6579138-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:11:54.7150314-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T091144.log
+2017-12-30T09:11:54.7170316-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:18:14.6027598-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:18:14.6127604-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:18:14.6137604-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:18:14.6147605-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:18:19.6190467-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:18:19.6210468-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:18:21.5871593-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T091814.log
+2017-12-30T09:18:21.5881593-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:18:55.4430957-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:18:55.4540963-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:18:55.4550964-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:18:55.4550964-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:19:04.4596114-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:19:04.4616115-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:19:06.2347130-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T091855.log
+2017-12-30T09:19:06.2357130-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:21:26.5197368-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:21:26.5317375-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:21:26.5317375-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:21:26.5327376-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:21:38.5374242-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:21:38.5394243-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:21:40.4625343-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T092126.log
+2017-12-30T09:21:40.4635343-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:25:14.9298011-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:25:14.9478021-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:25:14.9488022-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:25:14.9498023-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:25:24.9543745-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:25:24.9553745-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:25:26.7644780-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T092514.log
+2017-12-30T09:25:26.7654781-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:26:38.6745910-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:26:38.6865917-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:26:38.6875918-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:26:38.6885918-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:26:52.6933929-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:26:52.6973931-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:26:54.6035021-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T092638.log
+2017-12-30T09:26:54.6045022-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:29:52.7066890-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:29:52.7176897-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:29:52.7186897-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:29:52.7196898-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:29:59.7240904-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:29:59.7260905-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:30:02.4282451-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T092952.log
+2017-12-30T09:30:02.4292451-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:37:41.2704894-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:37:41.2814900-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:37:41.2814900-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:37:41.2824900-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:37:50.2880051-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:37:50.2890052-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:37:52.0671069-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T093741.log
+2017-12-30T09:37:52.0681070-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:38:35.5295928-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:38:35.5415935-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:38:35.5425935-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:38:35.5435936-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:38:46.5492231-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:38:46.5512232-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:38:48.3813279-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T093835.log
+2017-12-30T09:38:48.3823279-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:41:15.2807300-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:41:15.2917307-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:41:15.2927307-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:41:15.2937308-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:41:25.2983030-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:41:25.3003031-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:41:27.5364310-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T094115.log
+2017-12-30T09:41:27.5364310-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:42:28.2219020-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:42:28.2359028-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:42:28.2369029-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:42:28.2379030-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:42:36.2433608-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:42:36.2453610-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:42:38.1144679-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T094228.log
+2017-12-30T09:42:38.1154679-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:43:55.7969110-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:43:55.8079117-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:43:55.8079117-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:43:55.8089117-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:44:08.8146556-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:44:08.8166557-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:44:10.6627613-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T094355.log
+2017-12-30T09:44:10.6637614-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:44:47.1858503-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:44:47.1978510-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:44:47.1998511-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:44:47.2008512-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:44:59.2065379-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:44:59.2125382-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:45:01.5816737-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T094447.log
+2017-12-30T09:45:01.5826738-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:45:21.1907953-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:45:21.2017959-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:45:21.2027960-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:45:21.2037960-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:45:29.2092539-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:45:29.2122541-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:45:31.3853784-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T094521.log
+2017-12-30T09:45:31.3863785-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T09:46:30.9007825-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T09:46:30.9127832-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T09:46:30.9137832-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:46:30.9147833-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T09:46:44.9215844-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T09:46:44.9225845-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T09:46:47.3107211-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T094630.log
+2017-12-30T09:46:47.3127212-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:04:14.6186237-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:04:14.6316244-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:04:14.6326245-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:04:14.6336245-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:04:21.6390252-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:04:21.6420254-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:04:24.2331736-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T100414.log
+2017-12-30T10:04:24.2341736-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:05:51.5761693-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:05:51.5901701-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:05:51.5901701-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:05:51.5911702-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:05:56.5974565-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:05:56.6004567-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:05:58.4515626-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T100551.log
+2017-12-30T10:05:58.4525626-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:07:02.1912083-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:07:02.2042090-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:07:02.2052091-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:07:02.2072092-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:07:14.2138959-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:07:14.2168961-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:07:16.9320514-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T100702.log
+2017-12-30T10:07:16.9350516-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:08:00.4945430-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:08:00.5075438-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:08:00.5085438-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:08:00.5095439-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:08:10.5161162-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:08:10.5171163-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:08:12.9812572-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T100800.log
+2017-12-30T10:08:12.9822573-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:08:51.5534634-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:08:51.5654641-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:08:51.5664642-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:08:51.5674642-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:08:56.5737506-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:08:56.5767507-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:08:58.9248851-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T100851.log
+2017-12-30T10:08:58.9268852-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:10:46.5720421-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:10:46.5830427-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:10:46.5840428-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:10:46.5850429-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:10:55.5915580-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:10:55.5945582-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:10:58.4617222-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T101046.log
+2017-12-30T10:10:58.4627222-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:15:00.6825764-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:15:00.6955772-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:15:00.6965772-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:15:00.6975773-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:15:14.7053785-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:15:14.7083786-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:15:17.6635477-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T101500.log
+2017-12-30T10:15:17.6655478-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:26:27.7538746-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:26:27.7658753-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:26:27.7668754-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:26:27.7678754-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:26:35.7783336-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:26:35.7813338-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:26:37.9334569-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T102627.log
+2017-12-30T10:26:37.9344569-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:27:42.4511471-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:27:42.4621477-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:27:42.4631478-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:27:42.4641478-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:27:55.4718918-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:27:55.4748920-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:27:57.3399987-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T102742.log
+2017-12-30T10:27:57.3409987-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:28:48.4989248-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:28:48.5119255-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:28:48.5129256-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:28:48.5139257-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:28:58.5214981-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:28:58.5274984-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:29:00.4456081-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T102848.log
+2017-12-30T10:29:00.4466082-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:42:02.3653314-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:42:02.3763320-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:42:02.3773320-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:42:02.3783321-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:42:07.3856185-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:42:07.3886187-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:42:09.8927619-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T104202.log
+2017-12-30T10:42:09.9017624-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:43:48.3373926-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:43:48.3513934-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:43:48.3523935-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:43:48.3533935-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:43:56.3608515-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:43:56.3638517-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:43:58.3129632-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T104348.log
+2017-12-30T10:43:58.3149633-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:46:16.9188910-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:46:16.9298916-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:46:16.9308917-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:46:16.9328918-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:46:23.9402926-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:46:23.9432928-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:46:25.8053993-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T104616.log
+2017-12-30T10:46:25.8063993-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T10:47:05.9076930-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T10:47:05.9196937-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T10:47:05.9206937-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:47:05.9226938-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T10:47:16.9313235-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T10:47:16.9333236-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T10:47:19.0374440-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T104705.log
+2017-12-30T10:47:19.0384440-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:18:47.9094813-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:18:47.9224820-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:18:47.9234821-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:18:47.9244821-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:18:55.9339402-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:18:55.9399406-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:18:57.8280486-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T111847.log
+2017-12-30T11:18:57.8290486-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:19:52.9902037-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:19:53.0042045-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:19:53.0052045-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:19:53.0072046-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:20:07.0160059-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:20:07.0170060-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:20:08.8581113-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T111953.log
+2017-12-30T11:20:08.8591113-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:30:12.9236618-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:30:12.9356625-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:30:12.9366626-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:30:12.9376626-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:30:17.9459491-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:30:17.9489493-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:30:20.8501152-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T113012.log
+2017-12-30T11:30:20.8511153-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:31:25.4238086-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:31:25.4408096-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:31:25.4418096-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:31:25.4428097-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:31:37.4534967-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:31:37.4564968-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:31:39.3766067-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T113125.log
+2017-12-30T11:31:39.3786068-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:31:43.6168492-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:31:43.6298499-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:31:43.6308500-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:31:43.6328501-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:31:49.6411938-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:31:49.6441939-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:31:51.7513145-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T113143.log
+2017-12-30T11:31:51.7523145-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:33:49.3510408-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:33:49.3630415-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:33:49.3640415-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:33:49.3660416-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:33:57.3744997-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:33:57.3795000-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:33:59.4136163-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T113349.log
+2017-12-30T11:33:59.4146164-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:35:49.9259373-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:35:49.9379379-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:35:49.9389380-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:35:49.9399381-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:36:01.9496250-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:36:01.9526251-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:36:03.9167375-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T113549.log
+2017-12-30T11:36:03.9177375-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:36:37.2226425-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:36:37.2366433-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:36:37.2376433-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:36:37.2396435-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:36:46.2501588-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:36:46.2531590-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:36:48.3362781-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T113637.log
+2017-12-30T11:36:48.3372782-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:40:17.4712400-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:40:17.4852408-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:40:17.4862408-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:40:17.4882410-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:40:30.4979851-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:40:30.5009852-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:40:32.8161177-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T114017.log
+2017-12-30T11:40:32.8171177-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:41:32.1205097-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:41:32.1355105-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:41:32.1365106-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:41:32.1375106-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:41:44.1471976-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:41:44.1541980-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:41:46.1563125-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T114132.log
+2017-12-30T11:41:46.1583126-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:42:29.8908139-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:42:29.9058148-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:42:29.9068149-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:42:29.9088150-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:42:41.9185019-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:42:41.9215021-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:42:43.8916147-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T114229.log
+2017-12-30T11:42:43.8936149-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:43:09.1830613-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:43:09.1970621-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:43:09.1980622-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:43:09.1990622-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:43:18.2085776-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:43:18.2105777-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:43:20.0466827-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T114309.log
+2017-12-30T11:43:20.0476828-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:44:19.1570636-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:44:19.1720645-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:44:19.1730645-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:44:19.1740646-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:44:28.1855800-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:44:28.1895802-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:44:30.0536869-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T114419.log
+2017-12-30T11:44:30.0556870-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:46:14.1886430-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:46:14.2036439-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:46:14.2046440-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:46:14.2056440-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:46:25.2162738-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:46:25.2192740-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:46:27.7264174-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T114614.log
+2017-12-30T11:46:27.7274174-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:48:22.5149829-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:48:22.5299838-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:48:22.5309838-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:48:22.5319839-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:48:36.5427852-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:48:36.5457854-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:48:39.4579520-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T114822.log
+2017-12-30T11:48:39.4589520-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:51:14.0387935-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:51:14.0537944-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:51:14.0547944-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:51:14.0567945-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:51:28.0675959-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:51:28.0685960-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:51:29.9257022-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T115114.log
+2017-12-30T11:51:29.9277023-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:52:08.8419281-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:52:08.8569289-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:52:08.8589290-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:52:08.8599291-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:52:16.8703873-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:52:16.8733874-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:52:18.6524892-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T115208.log
+2017-12-30T11:52:18.6534892-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:54:00.6173212-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:54:00.6313220-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:54:00.6323221-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:54:00.6333222-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:54:09.6448376-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:54:09.6478378-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:54:11.6249508-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T115400.log
+2017-12-30T11:54:11.6259509-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T11:58:15.5459023-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T11:58:15.5599031-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T11:58:15.5609032-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:58:15.5629033-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T11:58:20.5731899-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T11:58:20.5771901-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T11:58:22.4532974-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T115815.log
+2017-12-30T11:58:22.4552975-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:05:07.3674572-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:05:07.3814580-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:05:07.3824580-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:05:07.3844581-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:05:17.3950307-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:05:17.3990309-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:05:19.7521655-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T120507.log
+2017-12-30T12:05:19.7541656-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:07:34.4988726-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:07:34.5118733-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:07:34.5128734-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:07:34.5148735-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:07:40.5252173-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:07:40.5292175-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:07:42.9713572-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T120734.log
+2017-12-30T12:07:42.9723573-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:10:05.7175218-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:10:05.7315226-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:10:05.7325227-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:10:05.7345228-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:10:11.7448666-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:10:11.7488668-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:10:14.0409979-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T121005.log
+2017-12-30T12:10:14.0429980-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:13:52.2094764-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:13:52.2234772-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:13:52.2244773-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:13:52.2264774-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:14:01.2369928-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:14:01.2409930-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:14:03.0890987-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T121352.log
+2017-12-30T12:14:03.0900987-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:17:42.5596517-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:17:42.5726524-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:17:42.5736525-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:17:42.5756526-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:17:53.5862824-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:17:53.5932828-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:17:55.7344052-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T121742.log
+2017-12-30T12:17:55.7364054-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:18:35.6246868-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:18:35.6386876-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:18:35.6396877-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:18:35.6416878-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:18:44.6532032-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:18:44.6542033-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:18:46.5303106-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T121835.log
+2017-12-30T12:18:46.5313107-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:23:18.0318396-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:23:18.0458404-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:23:18.0468405-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:23:18.0488406-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:23:28.0604132-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:23:28.0614133-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:23:30.6805631-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T122318.log
+2017-12-30T12:23:30.6815631-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:24:16.6661933-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:24:16.6801941-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:24:16.6811942-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:24:16.6831943-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:24:21.6944809-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:24:21.6984811-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:24:23.6175909-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T122416.log
+2017-12-30T12:24:23.6195910-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:25:13.1584245-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:25:13.1724253-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:25:13.1734253-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:25:13.1754254-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:25:26.1881697-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:25:26.1961702-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:25:28.0812780-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T122513.log
+2017-12-30T12:25:28.0822781-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:35:05.3542961-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:35:05.3702970-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:35:05.3712971-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:35:05.3732972-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:35:10.3845838-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:35:10.3885841-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:35:12.6737148-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T123505.log
+2017-12-30T12:35:12.6757149-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:39:54.9208584-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:39:54.9358592-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:39:54.9378594-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:39:54.9388594-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:40:00.9512033-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:40:00.9552035-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:40:03.0723246-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T123954.log
+2017-12-30T12:40:03.0813251-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:55:40.4999424-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:55:40.5149433-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:55:40.5159433-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:55:40.5179435-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:55:47.5303445-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:55:47.5373449-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:55:49.9224814-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T125540.log
+2017-12-30T12:55:49.9234814-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:56:47.4817736-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:56:47.4987745-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:56:47.5007747-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:56:47.5027748-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:57:01.5155763-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:57:01.5195765-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:57:03.3956838-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T125647.log
+2017-12-30T12:57:03.3976839-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:58:59.1573050-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:58:59.1723058-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:58:59.1733059-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:58:59.1753060-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T12:59:04.1905929-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T12:59:04.1945931-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:59:06.0596998-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T125859.log
+2017-12-30T12:59:06.0616999-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T12:59:54.6984817-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T12:59:54.7144827-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T12:59:54.7154827-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T12:59:54.7174828-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:00:07.7312272-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:00:07.7392276-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:00:09.6453367-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T125954.log
+2017-12-30T13:00:09.6473368-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:01:19.0483063-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:01:19.0653073-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:01:19.0663073-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:01:19.0683074-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:01:27.0817658-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:01:27.0827658-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:01:28.9118704-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T130119.log
+2017-12-30T13:01:28.9138706-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:02:12.6493721-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:02:12.6673731-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:02:12.6693732-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:02:12.6713733-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:02:26.6851749-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:02:26.6891751-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:02:28.6102850-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T130212.log
+2017-12-30T13:02:28.6112851-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:03:16.2030071-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:03:16.2200081-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:03:16.2220082-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:03:16.2240083-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:03:27.2366382-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:03:27.2386383-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:03:31.6128885-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T130316.log
+2017-12-30T13:03:31.6148887-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:09:55.4208411-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:09:55.4358420-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:09:55.4378421-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:09:55.4398422-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:10:04.4533577-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:10:04.4573580-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:10:06.6504834-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T130955.log
+2017-12-30T13:10:06.6514835-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:10:50.0369650-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:10:50.0539659-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:10:50.0549660-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:10:50.0579662-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:10:57.0713673-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:10:57.0723674-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:10:59.6015120-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T131050.log
+2017-12-30T13:10:59.6035121-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:18:12.4712708-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:18:12.4852716-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:18:12.4872717-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:18:12.4892718-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:18:26.5020733-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:18:26.5060735-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:18:28.7962045-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T131812.log
+2017-12-30T13:18:28.7972045-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:20:56.5396549-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:20:56.5546558-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:20:56.5556558-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:20:56.5576560-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:21:03.5710571-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:21:03.5790576-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:21:06.1042020-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T132056.log
+2017-12-30T13:21:06.1062021-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:24:03.1863305-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:24:03.2033315-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:24:03.2043315-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:24:03.2063317-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:24:08.2196184-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:24:08.2236186-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:24:10.4577464-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T132403.log
+2017-12-30T13:24:10.4597465-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:25:45.0051542-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:25:45.0251554-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:25:45.0261554-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:25:45.0281555-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:25:54.0426711-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:25:54.0436712-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:25:55.8837764-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T132545.log
+2017-12-30T13:25:55.8857766-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:26:24.0223859-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:26:24.0403869-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:26:24.0413870-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:26:24.0433871-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:26:37.0591315-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:26:37.0611316-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:26:38.9682407-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T132624.log
+2017-12-30T13:26:38.9702408-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:29:46.9349918-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:29:46.9529928-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:29:46.9549930-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:29:46.9569931-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:29:57.9716231-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:29:57.9756233-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:29:59.8677315-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T132946.log
+2017-12-30T13:29:59.8697316-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:36:51.0522499-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:36:51.0712510-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:36:51.0722511-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:36:51.0742512-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:37:03.0899384-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:37:03.0929386-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:37:04.8970418-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T133651.log
+2017-12-30T13:37:04.8990419-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:37:51.8777289-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:37:51.8957300-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:37:51.8967300-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:37:51.8997302-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:37:58.9141314-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:37:58.9181316-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:38:01.1262579-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T133751.log
+2017-12-30T13:38:01.1282580-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:44:31.4015804-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:44:31.4185814-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:44:31.4195814-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:44:31.4215816-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:44:41.4361544-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:44:41.4411546-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:44:43.7482866-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T134431.log
+2017-12-30T13:44:43.7502867-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:45:48.7940070-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:45:48.8120080-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:45:48.8130081-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:45:48.8160083-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:45:53.8342953-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:45:53.8432958-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:45:55.6754006-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T134548.log
+2017-12-30T13:45:55.6774007-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:46:24.5650530-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:46:24.5840541-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:46:24.5850541-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:46:24.5870542-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:46:36.6027415-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:46:36.6167423-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:46:38.4668481-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T134624.log
+2017-12-30T13:46:38.4678482-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:50:53.0284082-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:50:53.0454092-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:50:53.0464092-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:50:53.0494094-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:50:59.0647535-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:50:59.0677536-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:51:01.2968811-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T135053.log
+2017-12-30T13:51:01.2988813-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:51:52.7508241-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:51:52.7698252-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:51:52.7708253-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:51:52.7738255-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:51:58.7881695-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:51:58.7931697-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:52:00.7232801-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T135152.log
+2017-12-30T13:52:00.7252803-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:52:40.8555756-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:52:40.8735766-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:52:40.8755767-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:52:40.8775768-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:52:50.8951498-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:52:50.9001501-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:52:52.7342550-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T135240.log
+2017-12-30T13:52:52.7352551-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:54:13.9489002-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:54:13.9679013-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:54:13.9689014-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:54:13.9719015-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:54:18.9871884-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:54:18.9921887-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:54:20.9433003-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T135413.log
+2017-12-30T13:54:20.9443003-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:57:16.1543218-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:57:16.1733228-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:57:16.1773231-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:57:16.1803232-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:57:27.1969534-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:57:27.2019536-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:57:29.3160746-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T135716.log
+2017-12-30T13:57:29.3180747-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T13:59:17.3022510-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T13:59:17.3212521-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T13:59:17.3232522-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:59:17.3252523-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T13:59:26.3427681-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T13:59:26.3507686-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T13:59:28.6308990-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T135917.log
+2017-12-30T13:59:28.6318990-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T14:00:27.9812936-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T14:00:28.0002947-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T14:00:28.0022948-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:00:28.0052950-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T14:00:40.0239824-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T14:00:40.0269826-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:00:42.2651106-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T140028.log
+2017-12-30T14:00:42.2661107-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T14:03:02.2621180-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T14:03:02.2781189-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T14:03:02.2791190-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:03:02.2821191-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T14:03:08.2984633-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T14:03:08.3054637-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:03:10.0975662-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T140302.log
+2017-12-30T14:03:10.1055666-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T14:17:19.4161444-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T14:17:19.4331454-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T14:17:19.4341454-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:17:19.4371456-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T14:17:28.4536613-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T14:17:28.4586616-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:17:30.6357861-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T141719.log
+2017-12-30T14:17:30.6377862-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T14:21:06.7381465-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T14:21:06.7541474-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T14:21:06.7561475-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:21:06.7581476-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T14:21:18.7758350-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T14:21:18.7808353-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:21:21.3149802-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T142106.log
+2017-12-30T14:21:21.3159803-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T14:22:47.3278999-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T14:22:47.3479010-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T14:22:47.3489011-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:22:47.3519013-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T14:23:01.3697030-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T14:23:01.3747033-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:23:03.5568281-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T142247.log
+2017-12-30T14:23:03.5578282-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T14:28:59.7472010-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T14:28:59.7652021-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T14:28:59.7672022-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:28:59.7692023-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T14:29:05.7865465-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T14:29:05.7945469-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:29:08.2296862-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T142859.log
+2017-12-30T14:29:08.2306863-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T14:41:20.9425950-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T14:41:20.9615961-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T14:41:20.9625961-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:41:20.9655963-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T14:41:31.9832265-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T14:41:31.9882268-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:41:34.5003705-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T144120.log
+2017-12-30T14:41:34.5023706-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T14:43:36.0233212-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T14:43:36.0423223-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T14:43:36.0433223-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:43:36.0463225-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T14:43:49.0730676-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T14:43:49.0750677-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:43:51.4972062-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T144336.log
+2017-12-30T14:43:51.4992063-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T14:45:16.4470651-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T14:45:16.4660662-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T14:45:16.4670662-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:45:16.4710665-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T14:45:27.4876966-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T14:45:27.4926969-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:45:29.5858166-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T144516.log
+2017-12-30T14:45:29.5868166-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T14:45:48.4878977-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T14:45:48.5078989-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T14:45:48.5088989-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:45:48.5118991-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T14:45:59.5305293-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T14:45:59.5355296-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:46:01.9666687-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T144548.log
+2017-12-30T14:46:01.9686688-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T14:46:59.6829698-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T14:46:59.7019709-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T14:46:59.7029710-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:46:59.7059712-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T14:47:08.7244870-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T14:47:08.7294873-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:47:10.8266072-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T144659.log
+2017-12-30T14:47:10.8286073-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T14:54:42.1644223-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T14:54:42.1824233-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T14:54:42.1844234-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:54:42.1874236-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T14:54:49.2048250-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T14:54:49.2098252-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:54:51.5249577-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T145442.log
+2017-12-30T14:54:51.5269578-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T14:55:59.4888450-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T14:55:59.5088461-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T14:55:59.5108462-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:55:59.5128463-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T14:56:12.5315910-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T14:56:12.5405915-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T14:56:14.5297053-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T145559.log
+2017-12-30T14:56:14.5317054-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:00:36.1926715-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:00:36.2116726-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:00:36.2126727-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:00:36.2156728-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:00:49.2344175-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:00:49.2354175-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:00:51.1405265-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T150036.log
+2017-12-30T15:00:51.1425266-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:01:37.9102016-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:01:37.9292027-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:01:37.9312028-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:01:37.9342029-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:01:49.9518903-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:01:49.9538904-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:01:51.8019961-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T150137.log
+2017-12-30T15:01:51.8039962-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:06:47.4859083-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:06:47.5059094-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:06:47.5079095-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:06:47.5099097-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:07:01.5287115-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:07:01.5337118-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:07:03.9068475-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T150647.log
+2017-12-30T15:07:03.9128478-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:08:48.3168194-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:08:48.3358205-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:08:48.3378206-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:08:48.3408208-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:08:55.3592222-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:08:55.3642225-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:08:57.4353410-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T150848.log
+2017-12-30T15:08:57.4373411-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:09:42.5339205-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:09:42.5519215-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:09:42.5539216-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:09:42.5569218-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:09:56.5757236-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:09:56.5807239-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:09:58.9538596-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T150942.log
+2017-12-30T15:09:58.9558597-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:11:07.4357766-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:11:07.4557777-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:11:07.4577778-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:11:07.4607780-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:11:18.4794082-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:11:18.4844085-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:11:20.3145132-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T151107.log
+2017-12-30T15:11:20.3165133-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:13:53.3672673-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:13:53.3882685-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:13:53.3902686-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:13:53.3932688-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:14:07.4130707-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:14:07.4180710-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:14:09.4491871-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T151353.log
+2017-12-30T15:14:09.4511872-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:16:29.9342224-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:16:29.9542236-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:16:29.9562237-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:16:29.9582238-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:16:36.9776253-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:16:36.9826256-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:16:38.8837343-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T151629.log
+2017-12-30T15:16:38.8857344-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:17:56.5411761-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:17:56.5611772-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:17:56.5631773-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:17:56.5661775-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:18:03.5855790-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:18:03.5945795-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:18:05.5716926-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T151756.log
+2017-12-30T15:18:05.5736927-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:32:16.3173524-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:32:16.3383536-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:32:16.3403538-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:32:16.3433539-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:32:22.3626982-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:32:22.3676985-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:32:24.7568351-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T153216.log
+2017-12-30T15:32:24.7588353-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:33:39.9801377-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:33:40.0021389-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:33:40.0041390-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:33:40.0071392-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:33:48.0285980-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:33:48.0325982-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:33:49.7916989-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T153340.log
+2017-12-30T15:33:49.7936990-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:34:55.0894337-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:34:55.1094348-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:34:55.1114349-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:34:55.1144351-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:35:01.1527805-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:35:01.1617810-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:35:02.9758848-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T153455.log
+2017-12-30T15:35:02.9778849-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:35:56.0889227-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:35:56.1099239-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:35:56.1119240-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:35:56.1149241-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:36:07.1355545-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:36:07.1415548-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:36:09.3596817-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T153556.log
+2017-12-30T15:36:09.3616818-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:37:55.8537728-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:37:55.8747740-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:37:55.8767741-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:37:55.8797743-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:38:03.9002330-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:38:03.9032332-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:38:05.8163426-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T153755.log
+2017-12-30T15:38:05.8183428-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:39:08.0349013-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:39:08.0569026-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:39:08.0579027-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:39:08.0619029-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:39:13.0821900-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:39:13.0851902-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:39:15.1853103-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T153908.log
+2017-12-30T15:39:15.1903106-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:41:03.7125177-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:41:03.7325189-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:41:03.7345190-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:41:03.7385192-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:41:14.7581495-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:41:14.7611497-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:41:16.6272564-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T154103.log
+2017-12-30T15:41:16.6292565-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:41:44.7268636-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:41:44.7488649-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:41:44.7508650-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:41:44.7538651-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:41:52.7763240-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:41:52.7823243-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:41:54.6254298-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T154144.log
+2017-12-30T15:41:54.6304301-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:43:49.1219786-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:43:49.1419797-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:43:49.1439799-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:43:49.1469800-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:44:03.1677820-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:44:03.1737823-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:44:05.2138990-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T154349.log
+2017-12-30T15:44:05.2168992-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:50:42.8786441-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:50:42.8996453-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:50:42.9026455-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:50:42.9056457-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:50:48.9289902-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:50:48.9349905-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:50:51.1841192-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T155042.log
+2017-12-30T15:50:51.1861193-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:55:30.1740765-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:55:30.1960777-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:55:30.1980779-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:55:30.2020781-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:55:37.2284800-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:55:37.2314801-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:55:39.5726140-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T155530.log
+2017-12-30T15:55:39.5766143-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T15:58:38.5858530-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T15:58:38.6068542-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T15:58:38.6088543-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:58:38.6118545-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T15:58:44.6331989-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T15:58:44.6662008-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T15:58:46.4523030-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T155838.log
+2017-12-30T15:58:46.4543031-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T16:01:04.3211886-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T16:01:04.3431899-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T16:01:04.3451900-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T16:01:04.3481901-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T16:01:11.3705918-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T16:01:11.3795923-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T16:01:14.3157603-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T160104.log
+2017-12-30T16:01:14.3337613-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T16:53:14.3272147-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T16:53:14.3492160-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T16:53:14.3512161-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T16:53:14.3542163-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T16:53:25.3758467-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T16:53:25.3818470-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T16:53:29.0720581-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T165314.log
+2017-12-30T16:53:29.0740582-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:07:52.8584638-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:07:52.8794650-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:07:52.8814651-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:07:52.8854654-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:08:02.9070386-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:08:02.9130389-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:08:07.1802830-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T170752.log
+2017-12-30T17:08:07.1842832-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:08:16.8938386-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:08:16.9158398-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:08:16.9188400-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:08:16.9218402-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:08:27.9444706-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:08:27.9504710-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:08:30.1095945-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T170816.log
+2017-12-30T17:08:30.1185950-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:08:41.9032690-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:08:41.9242702-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:08:41.9262703-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:08:41.9302706-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:08:55.9530726-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:08:55.9590730-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:08:58.0951951-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T170841.log
+2017-12-30T17:08:58.0971953-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:10:23.1230585-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:10:23.1440597-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:10:23.1460598-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:10:23.1490600-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:10:29.1714044-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:10:29.1804049-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:10:31.5635412-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T171023.log
+2017-12-30T17:10:31.5685415-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:11:57.3514480-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:11:57.3744493-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:11:57.3754494-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:11:57.3794496-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:12:08.4010800-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:12:08.4110806-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:12:10.3241900-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T171157.log
+2017-12-30T17:12:10.3351906-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:12:44.1281235-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:12:44.1491247-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:12:44.1511248-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:12:44.1551250-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:12:57.1778699-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:12:57.1838702-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:12:59.5070031-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T171244.log
+2017-12-30T17:12:59.5130035-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:21:15.1923547-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:21:15.2153560-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:21:15.2173561-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:21:15.2213564-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:21:25.2429296-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:21:25.2529301-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:21:27.9680854-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T172115.log
+2017-12-30T17:21:27.9700855-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:33:40.9130075-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:33:40.9340087-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:33:40.9360088-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:33:40.9400090-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:33:49.9635251-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:33:49.9695255-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:33:52.2126538-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T173340.log
+2017-12-30T17:33:52.2176541-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:35:36.9626451-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:35:36.9846464-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:35:36.9866465-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:35:36.9896467-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:35:44.0140485-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:35:44.0240490-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:35:46.1701718-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T173536.log
+2017-12-30T17:35:46.1771722-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:37:17.2893835-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:37:17.3103847-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:37:17.3123848-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:37:17.3153850-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:37:27.3379582-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:37:27.3439586-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:37:29.2550679-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T173717.log
+2017-12-30T17:37:29.2630684-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:38:36.2448995-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:38:36.2679008-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:38:36.2699009-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:38:36.2729011-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:38:41.2951884-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:38:41.3011887-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:38:43.5693184-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T173836.log
+2017-12-30T17:38:43.5713185-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:39:41.3196216-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:39:41.3426229-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:39:41.3446230-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:39:41.3476232-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:39:50.3931405-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:39:50.3991409-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:39:52.6052671-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T173941.log
+2017-12-30T17:39:52.6072672-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:45:44.8034116-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:45:44.8254129-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:45:44.8274130-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:45:44.8304132-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:45:53.8539293-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:45:53.8599296-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:45:56.1170587-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T174544.log
+2017-12-30T17:45:56.1190589-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:48:32.5270049-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:48:32.5490061-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:48:32.5510063-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:48:32.5550065-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:48:45.5767513-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:48:45.5827516-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:48:47.6248684-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T174832.log
+2017-12-30T17:48:47.6268685-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:49:29.2092469-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:49:29.2322482-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:49:29.2342483-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:49:29.2382486-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:49:42.2619935-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:49:42.2709940-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:49:44.3211113-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T174929.log
+2017-12-30T17:49:44.3231114-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:49:51.7895384-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:49:51.8125398-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:49:51.8145399-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:49:51.8185401-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:49:59.8419990-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:49:59.8479994-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:50:01.8811156-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T174951.log
+2017-12-30T17:50:01.9011168-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:50:33.6279315-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:50:33.6499327-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:50:33.6519328-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:50:33.6559331-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:50:44.6785635-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:50:44.6885641-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:50:46.5536708-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T175033.log
+2017-12-30T17:50:46.5556709-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:50:53.3310584-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:50:53.3530597-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:50:53.3550598-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:50:53.3590600-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:51:07.3858623-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:51:07.3918626-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:51:09.5719873-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T175053.log
+2017-12-30T17:51:09.5739875-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:52:07.8653215-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:52:07.8873228-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:52:07.8893229-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:52:07.8933231-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:52:12.9176105-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:52:12.9276111-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:52:14.7817171-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T175207.log
+2017-12-30T17:52:14.7927178-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T17:54:06.3921009-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T17:54:06.4141021-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T17:54:06.4161022-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:54:06.4201025-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T17:54:18.4447902-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T17:54:18.4507906-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T17:54:20.6509164-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T175406.log
+2017-12-30T17:54:20.6529165-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T18:05:02.4316242-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T18:05:02.4566256-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T18:05:02.4586257-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T18:05:02.4626260-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T18:05:09.4860277-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2017-12-30T18:05:09.4890278-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T18:05:11.8871650-05:00;VSTestExecutionThread;Info;Log file: file:///C:\BEN_2\TekSystemTestProject\TestResults\TekSystemTestProject_Default_2017-12-30T180502.log
+2017-12-30T18:05:11.8891651-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2017-12-30T18:08:06.4651503-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2017-12-30T18:08:06.4881516-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2017-12-30T18:08:06.4901517-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+2017-12-30T18:08:06.4931519-05:00;VSTestExecutionThread;Info;Profile: Default
+2017-12-30T18:08:14.5196110-05:00;Thread#41;Info;Discovering target: Default
+2017-12-30T18:08:14.5266114-05:00;Thread#41;Info;Discovering tests from assembly: C:\BEN_2\TekSystemTestProject\TekSystemTestProject\bin\Debug\TekSystemTestProject.dll
+Appdomain Disposed
+Test Suite Dump
+#0: TekSystemTestProject/Default - 
+#1: Default - 
+#2: TekSystemTestProject - 
+#5: PositiveAndNegativeTest - 
+#7: Validate negative Request response code - TestAssembly:TekSystemTestProject/Feature:PositiveAndNegativeTest/Scenario:Validate+negative+Request+response+code
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #7 from normal test queue 
+Thread#0:Scheduler: considering testitem #7 for thread 0
+Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #7 for thread 0
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for TekSystemTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Ben Home\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.6.3\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #7/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given An API containing invalid endpoint
+Thread#0:T:done: PositiveAndNegativeTestSteps.GivenAnAPIContainingInvalidEndpoint() (0.3s)
+Thread#0:B:When User make an invalid GET request to API Endpoint
+Thread#0:T:200
+Thread#0:T:done: PositiveAndNegativeTestSteps.WhenUserMakeAnInvalidGETRequestToAPIEndpoint() (0.0s)
+Thread#0:B:Then Validate the response(s) code are 200
+Thread#0:T:error: Object reference not set to an instance of an object.
+Thread#0:TestItem#7:Scheduler: reschedule tests for testitem #7
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #7
+Thread#0:Scheduler: considering testitem #7 for thread 0
+Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #7 for thread 0
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #7/0 is finished on thread #0 as Failed within 0.4940283 seconds
+Thread#0: Test #7/1 is started on thread #0
+Thread#0:B:Given An API containing invalid endpoint
+Thread#0:T:done: PositiveAndNegativeTestSteps.GivenAnAPIContainingInvalidEndpoint() (0.1s)
+Thread#0:B:When User make an invalid GET request to API Endpoint
+Thread#0:T:200
+Thread#0:T:done: PositiveAndNegativeTestSteps.WhenUserMakeAnInvalidGETRequestToAPIEndpoint() (0.0s)
+Thread#0:B:Then Validate the response(s) code are 200
+Thread#0:T:error: Object reference not set to an instance of an object.
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #7
+Thread#0:Scheduler: considering testitem #7 for thread 0
+Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #7 for thread 0
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #7/1 is finished on thread #0 as Failed within 0.0880051 seconds
+Thread#0: Test #7/2 is started on thread #0
+Thread#0:B:Given An API containing invalid endpoint
+Thread#0:T:done: PositiveAndNegativeTestSteps.GivenAnAPIContainingInvalidEndpoint() (0.1s)
+Thread#0:B:When User make an invalid GET request to API Endpoint
+Thread#0:T:200
+Thread#0:T:done: PositiveAndNegativeTestSteps.WhenUserMakeAnInvalidGETRequestToAPIEndpoint() (0.0s)
+Thread#0:B:Then Validate the response(s) code are 200
+Thread#0:T:error: Object reference not set to an instance of an object.
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #7/2 is finished on thread #0 as Failed within 0.0740042 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1 (test executions: 3)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1
