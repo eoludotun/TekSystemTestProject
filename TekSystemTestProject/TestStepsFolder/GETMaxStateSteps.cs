@@ -24,9 +24,9 @@ namespace TekSystemTestProject.TestStepsFolder
     public class GETMaxStateSteps : BaseClass_Utility
     {
         RestCall restOBJ = new RestCall();
-        public int backToDigit { get; set; }
-        public string stateName { get; set; }
-        public string endpoint { get; set; }
+        private static int backToDigit { get; set; }
+        private static string stateName { get; set; }
+        private static string endpoint { get; set; }
 
         System.Collections.ArrayList maxStates = new System.Collections.ArrayList();
         List<string> nameState = new List<string>();
