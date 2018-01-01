@@ -10,10 +10,10 @@ namespace TekSystemTestProject
     [Binding]
     public class PositiveAndNegativeTestSteps : BaseClass_Utility
     {
-        private RestClient feedClient = new RestClient(ConfigurationManager.AppSettings.Get("API"));
-        public IRestResponse response { get; set; }
-        public IRestResponse invalidEndpoint { get; set; }
-        public RestClient feedInvalidClient { get; set; }
+        private static RestClient feedClient = new RestClient(ConfigurationManager.AppSettings.Get("API"));
+        private static IRestResponse response { get; set; }
+        private static IRestResponse invalidEndpoint { get; set; }
+        private static RestClient feedInvalidClient { get; set; }
 
         [When(@"User make a Valid GET request to API Endpoint")]
         public void WhenUserMakeAValidGETRequestToAPIEndpoint()
