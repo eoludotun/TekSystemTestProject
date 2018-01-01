@@ -39,7 +39,7 @@ namespace TekSystemTestProject
             {
                 // GET raw content as string
                 Console.WriteLine(response.StatusDescription + " " + response.ResponseUri + " " + response.StatusCode);
-                validateResponseCode = true;
+                validateResponseCode = false;
                 Assert.IsTrue(validateResponseCode);
             }
         }
