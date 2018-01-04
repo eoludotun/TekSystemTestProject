@@ -29,7 +29,7 @@ namespace TekSystemTestProject
             Boolean validateResponseCode = false;
             if (response.StatusCode == System.Net.HttpStatusCode.OK)
             {
-                Console.WriteLine("Expected responseCode: " + responseCode + " Actual responseCode : " + responseCode);
+                Console.WriteLine("Expected responseCode: " + responseCode + " Actual responseCode : " + response.StatusDescription);
                 System.Console.WriteLine(response.StatusCode);
                 Logger().Info(response);
                 validateResponseCode = true;
